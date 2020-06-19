@@ -1,7 +1,3 @@
 cookiecutter==1.7.2
 pip-check==2.6
-<<<<<<< HEAD
 jinja2
-=======
-jinja2
->>>>>>> fcfe4dd... Remove unwanted code and files
