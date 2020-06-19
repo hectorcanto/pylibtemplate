@@ -1,0 +1,1 @@
+tree --dirsfirst {{cookiecutter.component}}

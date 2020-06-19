@@ -1,0 +1,16 @@
+-r base.txt
+
+# test
+pytest==5.4.3
+pytest-cov==2.10.0
+pytest-sugar==0.9.3
+requests-mock==1.8.0
+
+# linters
+flake8==3.8.3
+pylint==2.5.3
+pylint-common==0.2.5
+pylint-plugin-utils==0.6
+
+# security
+safety==1.9.0

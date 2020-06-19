@@ -1,0 +1,8 @@
+{
+  "project_name": "project_libname",
+  "libname": "libname",
+  "display_name": "Fancy Lib",
+  "python_docker": "3.7.5-alpine"
+}
+
+
